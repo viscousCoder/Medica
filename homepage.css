@@ -1164,6 +1164,9 @@ footer {
         height: 40px;
     }
 
+    .book-appointment-section{
+        margin:5px;
+    }
     .specification-section .row {
         flex-direction: column;
     }
@@ -1185,6 +1188,8 @@ footer {
         font-size: 14px;
         padding: 10px 20px;
     }
+
+
 
     .book-appointment-section h2 {
         font-size: 24px; 
